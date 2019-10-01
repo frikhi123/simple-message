@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "849851004070",
+    "firebase_url": "https://realtimemessage-d2225.firebaseio.com",
+    "project_id": "realtimemessage-d2225",
+    "storage_bucket": "realtimemessage-d2225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849851004070:android:38b428ea40959d57743067",
+        "android_client_info": {
+          "package_name": "com.frikhi.test.realtime.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849851004070-6rtkdg94a21oqlun26ipsuf43unvm0v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frikhi.test.realtime.message",
+            "certificate_hash": "49e42b32fb602a0db39052bbbb4be65c7d0ca923"
+          }
+        },
+        {
+          "client_id": "849851004070-ais1r6bhlmbac31pj7c5u0ckjqnpbi9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcJa3_FhYJ2x1ODy_LsBxFvPWtYv4_5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849851004070-ais1r6bhlmbac31pj7c5u0ckjqnpbi9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

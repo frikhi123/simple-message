@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+   <com.github.florent37.shapeofview.shapes.BubbleView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_margin="3dp"
+       android:elevation="0.5dp"
+       app:shape_bubble_arrowPosition="left">
+      <RelativeLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="15dp"
+          android:background="@color/blueLight">
+         <TextView
+             android:id="@+id/message_text"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="hamza frikhi test message"
+             android:fontFamily="@font/montserratalternates_regular"
+             android:textColor="#1E88E5"/>
+      </RelativeLayout>
+   </com.github.florent37.shapeofview.shapes.BubbleView>
+</RelativeLayout>
+             
